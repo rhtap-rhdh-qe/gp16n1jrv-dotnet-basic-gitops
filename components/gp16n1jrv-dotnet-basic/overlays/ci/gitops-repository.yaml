@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: gp16n1jrv-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/gp16n1jrv-dotnet-basic-gitops
